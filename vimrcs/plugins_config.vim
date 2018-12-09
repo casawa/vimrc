@@ -52,6 +52,9 @@ map <c-b> :CtrlPBuffer<cr>
 let g:ctrlp_max_height = 20
 let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 
+" Persist CTRL-P cache across vim sessions
+let g:ctrlp_clear_cache_on_exit = 0
+
 
 """"""""""""""""""""""""""""""
 " => ZenCoding

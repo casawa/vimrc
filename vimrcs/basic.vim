@@ -53,6 +53,12 @@ nmap <leader>q :q<cr>
 " (useful for handling the permission-denied error)
 command W w !sudo tee % > /dev/null
 
+" Line numbers
+set nu
+
+" More intuitive splitting IMO
+set splitbelow
+set splitright
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => VIM user interface

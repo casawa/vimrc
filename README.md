@@ -7,6 +7,8 @@ It has slightly been modified to some of my (casawa) preferences.
 TODO:
 - Use fzf instead of ctrl+p
 - Use ultisnips
+- Auto-generate ctags
+- Tag plugins and shortcuts 
 
 
 # The Ultimate vimrc

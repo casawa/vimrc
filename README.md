@@ -9,6 +9,7 @@ TODO:
 - Use ultisnips
 - Auto-generate ctags
 - Tag plugins and shortcuts 
+- vim swap 
 
 
 # The Ultimate vimrc
